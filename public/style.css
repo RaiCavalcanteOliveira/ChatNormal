@@ -28,7 +28,8 @@ nav{
     flex-flow: column;
     background: #eee;
     border-radius: 6px;
-
+  overflow-y: auto;
+     word-wrap: break-word;
     box-shadow: 1px 0px 10px #eee;
 }
 #messagelist{
