@@ -22,7 +22,7 @@ nav{
 }
 
 .chatbox{
-    height: 1000px;
+    height: 800px;
     list-style: none;
     display: flex;
     flex-flow: column;
