@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee&family=Bungee+Spice&family=Candal&family=Chivo+Mono:wght@100&family=Climate+Crisis&family=Frijole&family=Lalezar&family=Lilita+One&family=Poppins:wght@200&family=Roboto&family=Tilt+Warp&family=Ultra&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee&family=Candal&family=Chivo+Mono:wght@100&family=Climate+Crisis&family=Lalezar&family=Poppins:wght@200&family=Roboto&family=Tilt+Warp&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Arvo&family=Libre+Baskerville&family=PT+Sans&family=Press+Start+2P&family=Roboto+Slab:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee&family=Bungee+Spice&family=Candal&family=Chivo+Mono:wght@100&family=Climate+Crisis&family=Frijole&family=Lalezar&family=Poppins:wght@200&family=Roboto&family=Tilt+Warp&family=Ultra&display=swap');
@@ -167,18 +168,18 @@ main {
     margin-top: 0; /* Adicionado para remover o espaço em branco */
 }
 body{
-font-family: 'Press Start 2P', cursive;
+
        font-size: 23px;
         border: solid black;
 }
 
 footer {
     background-color: #2F4F4F;
-    font-family: 'Ultra', serif;
       font-size: 23px;
     padding: 20px;
     text-align: center;
     color: white;
+    font-family: 'Lilita One', cursive;
 }
 
 
