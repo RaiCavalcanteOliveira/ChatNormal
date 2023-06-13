@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee&family=Candal&family=Chivo+Mono:wght@100&family=Climate+Crisis&family=Lalezar&family=Poppins:wght@200&family=Roboto&family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Libre+Baskerville&family=PT+Sans&family=Press+Start+2P&family=Roboto+Slab:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee&family=Bungee+Spice&family=Candal&family=Chivo+Mono:wght@100&family=Climate+Crisis&family=Frijole&family=Lalezar&family=Poppins:wght@200&family=Roboto&family=Tilt+Warp&family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee&family=Bungee+Spice&family=Candal&family=Chivo+Mono:wght@100&family=Climate+Crisis&family=Lalezar&family=Poppins:wght@200&family=Roboto&family=Tilt+Warp&family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee&family=Bungee+Spice&family=Candal&family=Chivo+Mono:wght@100&family=Climate+Crisis&family=Lalezar&family=Poppins:wght@200&family=Roboto&family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Bungee&family=Candal&family=Chivo+Mono:wght@100&family=Climate+Crisis&family=Lalezar&family=Poppins:wght@200&family=Roboto&family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Libre+Baskerville&family=PT+Sans&family=Press+Start+2P&family=Roboto+Slab:wght@100&display=swap');
+
+
 * {
     padding: 0px;
     margin: 0px;
@@ -18,7 +27,7 @@ nav {
 
 .container {
     max-width: 1000px;
-    margin: 100px auto 0; /* Remova ou diminua o valor do margin */
+    margin: 100px auto 0;
     padding: 20px;
 }
 
@@ -155,12 +164,14 @@ header {
 
 main {
     background-color: black;
+    margin-top: 0; /* Adicionado para remover o espaço em branco */
 }
 
 footer {
     background-color: #2F4F4F;
     font-family: 'Ultra', serif;
     font-size: 20px;
-    padding: 20px 20px 0; /* Remova ou diminua o valor do padding */
+    padding: 20px 20px 0;
     text-align: center;
+    color: white;
 }
