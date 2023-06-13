@@ -166,5 +166,9 @@ main{
 }
 footer{
        background-color: #2F4F4F;
-       padding:20px;
+
+    font-family: 'Ultra', serif;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
 }
