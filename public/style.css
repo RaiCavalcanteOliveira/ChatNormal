@@ -150,6 +150,7 @@ form.Input button{
 }
 header{
      background-color: #2F4F4F;
+    padding:20px;
 }
 
 main{
@@ -157,4 +158,5 @@ main{
 }
 footer{
        background-color: #2F4F4F;
+       padding:20px;
 }
