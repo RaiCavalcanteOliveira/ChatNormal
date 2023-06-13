@@ -39,6 +39,7 @@ nav{
   overflow-y: auto;
      word-wrap: break-word;
     box-shadow: 1px 0px 10px #eee;
+    padding: 20px;
 }
 #messagelist{
     flex: 1;
