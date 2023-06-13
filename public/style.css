@@ -166,6 +166,11 @@ main {
     background-color: black;
     margin-top: 0; /* Adicionado para remover o espaço em branco */
 }
+body{
+font-family: 'Press Start 2P', cursive;
+       font-size: 23px;
+        border: solid black;
+}
 
 footer {
     background-color: #2F4F4F;
@@ -176,11 +181,7 @@ footer {
     color: white;
 }
 
-body{
-    font-family: 'Ultra', serif;
-       font-size: 23px;
-        border: solid black;
-}
+
 h2{
     text-align: start;
     background-color: #2F4F4F;
