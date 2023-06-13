@@ -148,3 +148,10 @@ form.Input button{
       font-family: 'Bungee Spice', cursive;
     font-size: 50px;
 }
+header{
+     background-color: #2F4F4F;
+}
+
+main{
+     background-color: black;
+}
