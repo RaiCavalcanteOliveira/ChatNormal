@@ -175,3 +175,8 @@ footer {
     text-align: center;
     color: white;
 }
+
+body{
+    font-family: 'Ultra', serif;
+    font-size: 20px;
+}
